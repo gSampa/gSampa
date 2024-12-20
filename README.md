@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gSampa
 - 👀 I’m interested in leraning how to code 
-- 🌱 I’m currently learning Python, HTML5, CSS and JavaScript
+- 🌱 I’m currently learning Javascript, Typescript and React
 - 📫 E-mail me at spgustavo42@gmail.com
 
 <!---
